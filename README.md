@@ -1,2 +1,22 @@
-# ZOMATO-SALES-ANALYSIS
-Interactive Zomato Sales Analysis Dashboard built using Excel. This project analyzes sales, orders, customer behavior, and business insights using pivot tables, charts, KPIs, and slicers.
+# Zomato Sales Analysis
+
+An end-to-end data analytics project analyzing Zomato sales and customer insights using multiple analytics tools.
+
+## Tools Used
+- Excel
+- SQL
+- Power BI
+- Tableau
+
+## Key Insights
+- Sales Performance Analysis
+- Customer Behavior Analysis
+- Top Performing Cities
+- Order Trends
+- KPI Dashboard
+
+## Files
+- Excel Dashboard
+- SQL Queries
+- Power BI Dashboard
+- Tableau Dashboard
